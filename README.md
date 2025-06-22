@@ -37,17 +37,7 @@ project-root/
 ├── package.json
 └── README.md
 
-````
-
----
-
-## 🛠️ Installation & Setup
-
-1. **Clone the repository**
-
-
-2. **Initialize Node project and install dependencies**
-
+`
 ```bash
 npm init -y
 npm install express body-parser
